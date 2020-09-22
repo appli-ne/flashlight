@@ -38,6 +38,10 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : New!!!
+    description                           : Added off-timer function!
+    fontawesome_icon_name                 : info-circle
+
   - title                                 : Flashlight
     description                           : You can use the LED light on the camera to illuminate the darkness.
     fontawesome_icon_name                 : lightbulb
