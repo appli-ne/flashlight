@@ -2,10 +2,17 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2020-09-18 19:00
+date: 2020-10-16 19:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.1.1**
+2020/10/16
+- Added help for off-timer function
+- Bug fixes
+
 <br>
 
 ## **Version 1.1.0**
