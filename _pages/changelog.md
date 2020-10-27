@@ -12,6 +12,7 @@ date: 2020-10-16 19:00
 2020/10/16
 - Added help for off-timer function
 - Bug fixes
+
 ---
 <br>
 
@@ -25,11 +26,13 @@ date: 2020-10-16 19:00
 - Ads optimization
 - Support Adaptive Banners
 - Bug fixes
+
 ---
 <br>
 
 ## **Version 1.0.0**
 2020/05/04
 - Initial release
+
 ---
 <br>
