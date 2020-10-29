@@ -2,10 +2,19 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2020-10-16 19:00
+date: 2020-10-29 17:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.2.0**
+2020/10/29
+- Fixed an ad display check bug
+- Stability improvement and optimization
+- Change in-app purchase to subscription
+
+---
 <br>
 
 ## **Version 1.1.1**
