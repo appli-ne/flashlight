@@ -2,10 +2,18 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2020-12-24 15:00
+date: 2021-01-18 10:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.4.0**
+2021/01/18
+- Changed the menu UI to be easier to read.
+- Off-timer UI changed to round.
+
+---
 <br>
 
 ## **Version 1.3.0**
