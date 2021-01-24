@@ -1,5 +1,5 @@
 #page title
-page_title                                : Flashlight App - appli-ne（アプリね） # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : 【Flashlight + Timer App】Flashlight app (with off timer) - appli-ne（アプリね） # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                           # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -14,7 +14,7 @@ lang_name                                 : 日本語
 lang_link                                 : ../flashlight-ja/
 
 app_icon                                  : assets/ic_launcher.png                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Flashlight (Torch)                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Flashlight + Timer                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : It is an application that turns your smartphone into a flashlight / Torch!<br>Free and easy to use!
 
@@ -39,6 +39,10 @@ youtube_username                          :
 features                                  :
 
   - title                                 : New!!!
+    description                           : Android 11 Support<br>Dark theme is now supported!
+    fontawesome_icon_name                 : info-circle
+
+  - title                                 : off-timer
     description                           : Added off-timer function!
     fontawesome_icon_name                 : info-circle
 
