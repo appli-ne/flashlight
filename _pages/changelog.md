@@ -2,10 +2,20 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2021-01-18 10:00
+date: 2021-03-06 21:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.5.0**
+2021/03/06
+- Change of advertisement non-display (paid) selection UI
+- Added manage subscriptions
+- Supports 12 additional languages
+- Bug fixes
+
+---
 <br>
 
 ## **Version 1.4.0**
