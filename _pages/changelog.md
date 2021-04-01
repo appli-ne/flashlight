@@ -2,10 +2,17 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2021-03-06 21:00
+date: 2021-04-01 22:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.5.1**
+2021/04/01
+- Fixed a bug that does not start depending on the environment
+
+---
 <br>
 
 ## **Version 1.5.0**
