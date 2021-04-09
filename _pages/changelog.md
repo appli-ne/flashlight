@@ -2,10 +2,17 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2021-04-01 22:00
+date: 2021-04-09 17:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.5.2**
+2021/04/09
+- Correction of typographical errors
+
+---
 <br>
 
 ## **Version 1.5.1**
