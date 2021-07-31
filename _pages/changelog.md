@@ -2,10 +2,21 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2021-04-14 17:00
+date: 2021-07-31 17:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.6.0**
+2021/07/31
+- Splash screen added
+- App icon change
+- appli-ne logo change
+- Czech support
+- Ad optimization
+
+---
 <br>
 
 ## **Version 1.5.3**
