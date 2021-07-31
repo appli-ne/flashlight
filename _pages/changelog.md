@@ -15,6 +15,7 @@ date: 2021-07-31 17:00
 - appli-ne logo change
 - Czech support
 - Ad optimization
+- Renewal of remove ads
 
 ---
 <br>
