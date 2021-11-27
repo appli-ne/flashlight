@@ -2,10 +2,20 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2021-10-04 17:00
+date: 2021-11-27 17:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.8.0**
+2021/11/27
+- Improved timer behavior during sleep
+- App icon change
+- Improved the display of the 「Remove ads」 selection screen
+- Android12 support
+
+---
 <br>
 
 ## **Version 1.7.3**
