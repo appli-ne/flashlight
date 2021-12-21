@@ -2,10 +2,19 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2021-11-27 17:00
+date: 2021-12-21 17:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.8.1**
+2021/12/21
+- Speeded up processing at startup
+- Improved the display of the 「Remove ads」 selection screen
+- Bug fixes
+
+---
 <br>
 
 ## **Version 1.8.0**
