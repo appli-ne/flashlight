@@ -38,10 +38,6 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : New!!!
-    description                           : Android 11 Support<br>Dark theme is now supported!
-    fontawesome_icon_name                 : info-circle
-
   - title                                 : off-timer
     description                           : Added off-timer function!
     fontawesome_icon_name                 : info-circle
@@ -51,11 +47,15 @@ features                                  :
     fontawesome_icon_name                 : lightbulb
     
   - title                                 : Screen backlight
-    description                           : You can use the screen backlight to illuminate the darkness.
+    description                           : You can use the screen backlight to illuminate the darkness.<br>You can adjust the brightness when the screen light is on.
     fontawesome_icon_name                 : mobile-alt
 
+  - title                                 : Other
+    description                           : Dark theme is now supported!
+    fontawesome_icon_name                 : info-circle
+
   - title                                 : Supported OS
-    description                           : Android 6.0 or later
+    description                           : Android 6.0 or later<br>Android 12 Support
     fontawesome_icon_name                 : mobile-alt
 
   - title                                 : # New Feature Title
