@@ -2,10 +2,18 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2021-12-21 17:00
+date: 2022-01-01 17:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.8.2**
+2022/01/01
+- Ad optimization
+- Bug fixes
+
+---
 <br>
 
 ## **Version 1.8.1**
