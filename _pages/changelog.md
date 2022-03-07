@@ -7,6 +7,14 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.9.0**
+2022/03/07
+- 「SOS signal」 was added
+- Fixed the message
+
+---
+<br>
+
 ## **Version 1.8.3**
 2022/02/07
 - Improved the display timing of ads
