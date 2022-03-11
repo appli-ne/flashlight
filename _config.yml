@@ -38,6 +38,10 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : SOS signal
+    description                           : Added SOS signal function!
+    fontawesome_icon_name                 : info-circle
+
   - title                                 : off-timer
     description                           : Added off-timer function!
     fontawesome_icon_name                 : info-circle
