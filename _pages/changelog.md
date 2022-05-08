@@ -7,6 +7,14 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.9.1**
+2022/05/09
+- Stability improvement and optimization
+- Fixed the message
+
+---
+<br>
+
 ## **Version 1.9.0**
 2022/03/07
 - 「SOS signal」 was added
