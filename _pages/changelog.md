@@ -7,6 +7,14 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.9.2**
+2022/07/13
+- Stability improvement and optimization
+- Bug fixes
+
+---
+<br>
+
 ## **Version 1.9.1**
 2022/05/09
 - Stability improvement and optimization
