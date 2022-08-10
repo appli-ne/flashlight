@@ -7,6 +7,14 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.9.3**
+2022/08/10
+- Fixed a bug that the timer was activated when the timer was disabled.
+- Bug fixes
+
+---
+<br>
+
 ## **Version 1.9.2**
 2022/07/13
 - Stability improvement and optimization
