@@ -7,6 +7,15 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.10.0**
+2023/05/06
+- Ad optimization
+- Fixed timer display bug
+- Android13 support
+
+---
+<br>
+
 ## **Version 1.9.3**
 2022/08/10
 - Fixed a bug that the timer was activated when the timer was disabled.
