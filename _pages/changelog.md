@@ -7,6 +7,16 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.12.0**
+2025/10/03
+- Edge-to-edge support
+- Screen rotation: Omnidirectional support
+- Bug fixes
+- Android16 support
+
+---
+<br>
+
 ## **Version 1.11.0**
 2024/10/06
 - Off timer: Can be set down to the second
@@ -52,7 +62,7 @@ include_in_header: false
 
 ## **Version 1.9.0**
 2022/03/07
-- 「SOS signal」 was added
+- 「SOS signal�? was added
 - Fixed the message
 
 ---
@@ -76,7 +86,7 @@ include_in_header: false
 ## **Version 1.8.1**
 2021/12/21
 - Speeded up processing at startup
-- Improved the display of the 「Remove ads」 selection screen
+- Improved the display of the 「Remove ads�? selection screen
 - Bug fixes
 
 ---
@@ -86,7 +96,7 @@ include_in_header: false
 2021/11/27
 - Improved timer behavior during sleep
 - App icon change
-- Improved the display of the 「Remove ads」 selection screen
+- Improved the display of the 「Remove ads�? selection screen
 - Android12 support
 
 ---
@@ -103,8 +113,8 @@ include_in_header: false
 ## **Version 1.7.2**
 2021/09/26
 - Change the display position of banner ads
-- Changed 「Send Feedback」 to email
-- Added 「Share」 menu
+- Changed 「Send Feedback�? to email
+- Added 「Share�? menu
 
 ---
 <br>
