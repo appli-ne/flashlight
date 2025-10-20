@@ -7,6 +7,13 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.12.2**
+2025/10/20
+- Bug fixes
+
+---
+<br>
+
 ## **Version 1.12.1**
 2025/10/16
 - Bug fixes
